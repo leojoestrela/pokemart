@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Pokemart</string>
+    <string name="comprar">comprar</string>
+
+    <string name="sobre">Sobre</string>
+    <string name="historico">Histórico</string>
+    <string name="home">Home</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="adicionar_ao_carrinho">Adicionar ao carrinho</string>
+    <string name="carrinho">Carrinho</string>
+    <string name="resumo_pedido">Resumo do pedido</string>
+    <string name="finalizar_pedido">Finalizar pedido</string>
+    <string name="valor_total">Valor total: </string>
+    <string name="adicione_um_produto_ao_seu_carrinho">Adicione um produto ao seu carrinho</string>
+
+</resources>
